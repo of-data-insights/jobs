@@ -1,4 +1,4 @@
-# Data Analyst OF Network
+# Data Engineer
 
 Join OneFootball and become a vital part of our Data & Insights department: Data Engineers, Data Analysts and Machine Learning Engineers who are on a joint mission to build modern analytics infrastructure.
 
