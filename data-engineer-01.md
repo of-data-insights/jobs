@@ -22,6 +22,6 @@ Help us improve our data stack which allows us to process millions of data point
 * You describe yourself as a curious, open-minded person with the motivation to drive projects to success
 * Experience managing event collection stacks (Segment, Snowplow, Rudderstack etc.) end-to-end is a plus
 
-If we have captured your interest and you want to help us build the ultimate media platform for football fans, [apply now](https://jobs.lever.co/onefootball/02af7154-516b-4891-b62e-134970d9f9d5) and join the Data & Insights team! Make sure to include a link to your GitHub/GitLab/etc. profile.
+If we have captured your interest and you want to help us build the ultimate media platform for football fans, [apply now](https://jobs.lever.co/onefootball/e878dcf8-44a1-4dee-903e-c6c674daa5b2/apply) and join the Data & Insights team! Make sure to include a link to your GitHub/GitLab/etc. profile.
 
 You can find our Data Privacy Policy for recruiting [here](https://static.onefootball.com/legal/recruiting-privacy-policy/en).
