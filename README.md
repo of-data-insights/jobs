@@ -8,4 +8,5 @@ Joining OneFootball means working in a safe and welcoming environment that celeb
 
 ## 👨‍💻👩‍💻 Open Positions:
 
-* [Data Analyst - OneFootball Network](data-analyst-of-network-01.md)
+* [Data Analyst](data-analyst-of-network-01.md)
+* [Data Engineer](data-engineer-01.md)
