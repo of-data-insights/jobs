@@ -24,4 +24,5 @@ Help us improve our data stack which allows us to process millions of data point
 
 If we have captured your interest and you want to help us build the ultimate media platform for football fans, [apply now](https://jobs.lever.co/onefootball/e878dcf8-44a1-4dee-903e-c6c674daa5b2/apply) and join the Data & Insights team! Make sure to include a link to your GitHub/GitLab/etc. profile.
 
+For more information about the role checkout our [FAQ](faq-data-engineer.md)
 You can find our Data Privacy Policy for recruiting [here](https://static.onefootball.com/legal/recruiting-privacy-policy/en).
