@@ -10,5 +10,6 @@ Joining OneFootball means working in a safe and welcoming environment that celeb
 
 * 2 [Business Analyst Product - Core XP](business-analyst-product-01.md)
 * [Business Analyst Product - OTT](business-analyst-product-02.md)
+* [Business Analyst Finance - Business Partnering](business-analyst-finance-01.md)
 * [Data Analyst - OF Network](data-analyst-of-network-01.md)
 * [Data Analyst - CLF](data-analyst-clf-01.md)

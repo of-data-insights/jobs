@@ -23,9 +23,8 @@ The Video department is responsible for building end-to-end management of motion
 * Experience using data visualisation / BI tools and SQL
 * You describe yourself as a curious, open-minded person with the motivation to drive projects to success
 * Previous experience using analytics in the sports media industry or a related field is a plus
-<!-- TODO:  ADD LEVER LINK-->
-If we have captured your interest and you want to help us build the ultimate media platform for football fans, [apply now](https://company.onefootball.com/jobs) and join the Data & Insights team! Make sure to include a link to your GitHub/GitLab/etc. profile.
 
+If we have captured your interest and you want to help us build the ultimate media platform for football fans, [apply now](https://jobs.lever.co/onefootball/42624b65-b616-4858-b2bf-494cd6320d4c/apply) and join the Data & Insights team!
 For more information about the role checkout our [FAQ](faq-data-analyst.md)
 
 You can find our Data Privacy Policy for recruiting [here](https://static.onefootball.com/legal/recruiting-privacy-policy/en).
