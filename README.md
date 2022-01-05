@@ -8,7 +8,6 @@ Joining OneFootball means working in a safe and welcoming environment that celeb
 
 ## 👨‍💻👩‍💻 Open Positions:
 
-* 2 [Business Analyst Product - Core XP](business-analyst-product-01.md)
+* [Data Engineer](data-engineer-01.md)
+* [Business Analyst Product - Core XP](business-analyst-product-01.md)
 * [Business Analyst Product - OTT](business-analyst-product-02.md)
-* [Data Analyst - OF Network](data-analyst-of-network-01.md)
-* [Data Analyst - CLF](data-analyst-clf-01.md)
